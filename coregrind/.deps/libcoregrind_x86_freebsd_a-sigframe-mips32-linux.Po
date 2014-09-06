@@ -1,0 +1,3 @@
+libcoregrind_x86_freebsd_a-sigframe-mips32-linux.o \
+  libcoregrind_x86_freebsd_a-sigframe-mips32-linux.o:  \
+ m_sigframe/sigframe-mips32-linux.c

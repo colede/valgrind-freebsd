@@ -1,0 +1,30 @@
+callgrind_amd64_freebsd-cg-x86-amd64.o \
+  callgrind_amd64_freebsd-cg-x86-amd64.o: ../cachegrind/cg-x86-amd64.c \
+  ../include/pub_tool_basics.h ../VEX/pub/libvex_basictypes.h \
+  /usr/include/stdarg.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  ../include/pub_tool_cpuid.h ../include/pub_tool_libcbase.h \
+  ../include/pub_tool_libcassert.h ../include/pub_tool_libcprint.h \
+  ../cachegrind/cg_arch.h
+
+../include/pub_tool_basics.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+/usr/include/stdarg.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+../include/pub_tool_cpuid.h:
+
+../include/pub_tool_libcbase.h:
+
+../include/pub_tool_libcassert.h:
+
+../include/pub_tool_libcprint.h:
+
+../cachegrind/cg_arch.h:

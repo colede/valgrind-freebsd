@@ -1,0 +1,31 @@
+none_amd64_freebsd-nl_main.o none_amd64_freebsd-nl_main.o: nl_main.c \
+  ../include/pub_tool_basics.h ../VEX/pub/libvex_basictypes.h \
+  /usr/include/stdarg.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  ../include/pub_tool_tooliface.h ../include/pub_tool_errormgr.h \
+  ../include/pub_tool_execontext.h ../VEX/pub/libvex.h \
+  ../VEX/pub/libvex_basictypes.h ../VEX/pub/libvex_ir.h
+
+../include/pub_tool_basics.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+/usr/include/stdarg.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+../include/pub_tool_tooliface.h:
+
+../include/pub_tool_errormgr.h:
+
+../include/pub_tool_execontext.h:
+
+../VEX/pub/libvex.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+../VEX/pub/libvex_ir.h:

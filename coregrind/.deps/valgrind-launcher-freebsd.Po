@@ -1,0 +1,122 @@
+valgrind-launcher-freebsd.o valgrind-launcher-freebsd.o:  \
+ launcher-freebsd.c /usr/include/assert.h /usr/include/sys/cdefs.h \
+  /usr/include/ctype.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/_ctype.h \
+  /usr/include/runetype.h /usr/include/xlocale/_ctype.h \
+  /usr/include/elf.h /usr/include/sys/types.h \
+  /usr/include/machine/endian.h /usr/include/sys/_pthreadtypes.h \
+  /usr/include/sys/_stdint.h /usr/include/sys/select.h \
+  /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h \
+  /usr/include/sys/timespec.h /usr/include/sys/_timespec.h \
+  /usr/include/machine/elf.h /usr/include/sys/elf32.h \
+  /usr/include/sys/elf_common.h /usr/include/sys/elf64.h \
+  /usr/include/sys/elf_generic.h /usr/include/errno.h \
+  /usr/include/fcntl.h /usr/include/stdarg.h /usr/include/stdio.h \
+  /usr/include/sys/_null.h /usr/include/stdlib.h /usr/include/string.h \
+  /usr/include/strings.h /usr/include/xlocale/_string.h \
+  /usr/include/sys/mman.h /usr/include/sys/sysctl.h \
+  /usr/include/sys/queue.h /usr/include/unistd.h \
+  /usr/include/sys/unistd.h pub_core_debuglog.h \
+  ../include/pub_tool_basics.h ../VEX/pub/libvex_basictypes.h \
+  pub_core_vki.h ../include/pub_tool_vki.h ../include/vki/vki-freebsd.h \
+  ../include/vki/vki-machine-types-amd64-freebsd.h \
+  ../include/vki/vki-amd64-freebsd.h pub_core_libcproc.h ../config.h \
+  ../include/pub_tool_libcproc.h pub_core_ume.h
+
+/usr/include/assert.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/ctype.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/_ctype.h:
+
+/usr/include/runetype.h:
+
+/usr/include/xlocale/_ctype.h:
+
+/usr/include/elf.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/sys/_pthreadtypes.h:
+
+/usr/include/sys/_stdint.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/_sigset.h:
+
+/usr/include/sys/_timeval.h:
+
+/usr/include/sys/timespec.h:
+
+/usr/include/sys/_timespec.h:
+
+/usr/include/machine/elf.h:
+
+/usr/include/sys/elf32.h:
+
+/usr/include/sys/elf_common.h:
+
+/usr/include/sys/elf64.h:
+
+/usr/include/sys/elf_generic.h:
+
+/usr/include/errno.h:
+
+/usr/include/fcntl.h:
+
+/usr/include/stdarg.h:
+
+/usr/include/stdio.h:
+
+/usr/include/sys/_null.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/string.h:
+
+/usr/include/strings.h:
+
+/usr/include/xlocale/_string.h:
+
+/usr/include/sys/mman.h:
+
+/usr/include/sys/sysctl.h:
+
+/usr/include/sys/queue.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/unistd.h:
+
+pub_core_debuglog.h:
+
+../include/pub_tool_basics.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+pub_core_vki.h:
+
+../include/pub_tool_vki.h:
+
+../include/vki/vki-freebsd.h:
+
+../include/vki/vki-machine-types-amd64-freebsd.h:
+
+../include/vki/vki-amd64-freebsd.h:
+
+pub_core_libcproc.h:
+
+../config.h:
+
+../include/pub_tool_libcproc.h:
+
+pub_core_ume.h:

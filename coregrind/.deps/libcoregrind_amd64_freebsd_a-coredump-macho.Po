@@ -1,0 +1,3 @@
+libcoregrind_amd64_freebsd_a-coredump-macho.o \
+  libcoregrind_amd64_freebsd_a-coredump-macho.o:  \
+ m_coredump/coredump-macho.c

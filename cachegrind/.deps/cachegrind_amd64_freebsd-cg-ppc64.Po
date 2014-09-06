@@ -1,0 +1,2 @@
+cachegrind_amd64_freebsd-cg-ppc64.o cachegrind_amd64_freebsd-cg-ppc64.o:  \
+ cg-ppc64.c

@@ -1,0 +1,109 @@
+libcoregrind_amd64_freebsd_a-readstabs.o \
+  libcoregrind_amd64_freebsd_a-readstabs.o: m_debuginfo/readstabs.c \
+  pub_core_basics.h ../include/pub_tool_basics.h \
+  ../VEX/pub/libvex_basictypes.h /usr/include/stdarg.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h ../VEX/pub/libvex.h \
+  ../VEX/pub/libvex_basictypes.h ../VEX/pub/libvex_ir.h \
+  ../VEX/pub/libvex_guest_amd64.h ../VEX/pub/libvex_emwarn.h \
+  pub_core_debuginfo.h ../include/pub_tool_debuginfo.h \
+  pub_core_libcbase.h ../include/pub_tool_libcbase.h \
+  pub_core_libcassert.h ../include/pub_tool_libcassert.h \
+  pub_core_libcprint.h ../include/pub_tool_libcprint.h pub_core_xarray.h \
+  ../include/pub_tool_xarray.h m_debuginfo/priv_misc.h \
+  m_debuginfo/priv_tytypes.h m_debuginfo/priv_d3basics.h \
+  m_debuginfo/priv_storage.h m_debuginfo/priv_readstabs.h \
+  /usr/include/a.out.h /usr/include/sys/types.h \
+  /usr/include/machine/endian.h /usr/include/sys/_pthreadtypes.h \
+  /usr/include/sys/_stdint.h /usr/include/sys/select.h \
+  /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h \
+  /usr/include/sys/timespec.h /usr/include/sys/_timespec.h \
+  /usr/include/machine/exec.h /usr/include/sys/endian.h \
+  /usr/include/sys/imgact_aout.h /usr/include/machine/reloc.h \
+  /usr/include/nlist.h /usr/include/sys/nlist_aout.h
+
+pub_core_basics.h:
+
+../include/pub_tool_basics.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+/usr/include/stdarg.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+../VEX/pub/libvex.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+../VEX/pub/libvex_ir.h:
+
+../VEX/pub/libvex_guest_amd64.h:
+
+../VEX/pub/libvex_emwarn.h:
+
+pub_core_debuginfo.h:
+
+../include/pub_tool_debuginfo.h:
+
+pub_core_libcbase.h:
+
+../include/pub_tool_libcbase.h:
+
+pub_core_libcassert.h:
+
+../include/pub_tool_libcassert.h:
+
+pub_core_libcprint.h:
+
+../include/pub_tool_libcprint.h:
+
+pub_core_xarray.h:
+
+../include/pub_tool_xarray.h:
+
+m_debuginfo/priv_misc.h:
+
+m_debuginfo/priv_tytypes.h:
+
+m_debuginfo/priv_d3basics.h:
+
+m_debuginfo/priv_storage.h:
+
+m_debuginfo/priv_readstabs.h:
+
+/usr/include/a.out.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/sys/_pthreadtypes.h:
+
+/usr/include/sys/_stdint.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/_sigset.h:
+
+/usr/include/sys/_timeval.h:
+
+/usr/include/sys/timespec.h:
+
+/usr/include/sys/_timespec.h:
+
+/usr/include/machine/exec.h:
+
+/usr/include/sys/endian.h:
+
+/usr/include/sys/imgact_aout.h:
+
+/usr/include/machine/reloc.h:
+
+/usr/include/nlist.h:
+
+/usr/include/sys/nlist_aout.h:

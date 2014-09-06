@@ -1,0 +1,35 @@
+cg_merge-cg_merge.o cg_merge-cg_merge.o: cg_merge.c /usr/include/stdio.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_null.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/stdlib.h /usr/include/assert.h /usr/include/string.h \
+  /usr/include/strings.h /usr/include/xlocale/_string.h \
+  /usr/include/ctype.h /usr/include/_ctype.h /usr/include/runetype.h \
+  /usr/include/xlocale/_ctype.h
+
+/usr/include/stdio.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_null.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/assert.h:
+
+/usr/include/string.h:
+
+/usr/include/strings.h:
+
+/usr/include/xlocale/_string.h:
+
+/usr/include/ctype.h:
+
+/usr/include/_ctype.h:
+
+/usr/include/runetype.h:
+
+/usr/include/xlocale/_ctype.h:

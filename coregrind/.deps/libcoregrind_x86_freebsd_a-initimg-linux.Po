@@ -1,0 +1,2 @@
+libcoregrind_x86_freebsd_a-initimg-linux.o \
+  libcoregrind_x86_freebsd_a-initimg-linux.o: m_initimg/initimg-linux.c

@@ -1,0 +1,2 @@
+cachegrind_x86_freebsd-cg-mips32.o cachegrind_x86_freebsd-cg-mips32.o:  \
+ cg-mips32.c

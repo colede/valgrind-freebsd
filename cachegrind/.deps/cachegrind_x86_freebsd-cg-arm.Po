@@ -1,0 +1,2 @@
+cachegrind_x86_freebsd-cg-arm.o cachegrind_x86_freebsd-cg-arm.o:  \
+ cg-arm.c

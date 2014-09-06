@@ -1,0 +1,94 @@
+vgpreload_drd_x86_freebsd_so-drd_pthread_intercepts.o \
+  vgpreload_drd_x86_freebsd_so-drd_pthread_intercepts.o:  \
+ drd_pthread_intercepts.c /usr/include/assert.h /usr/include/sys/cdefs.h \
+  /usr/include/errno.h /usr/include/pthread.h \
+  /usr/include/sys/_pthreadtypes.h /usr/include/machine/_limits.h \
+  /usr/include/machine/_types.h /usr/include/sys/_sigset.h \
+  /usr/include/sched.h /usr/include/sys/_types.h /usr/include/time.h \
+  /usr/include/sys/_null.h /usr/include/sys/timespec.h \
+  /usr/include/sys/_timespec.h /usr/include/xlocale/_time.h \
+  /usr/include/semaphore.h /usr/include/sys/_umtx.h /usr/include/stdint.h \
+  /usr/include/machine/_stdint.h /usr/include/sys/_stdint.h \
+  /usr/include/stdio.h /usr/include/stdlib.h /usr/include/unistd.h \
+  /usr/include/sys/types.h /usr/include/machine/endian.h \
+  /usr/include/sys/select.h /usr/include/sys/_timeval.h \
+  /usr/include/sys/unistd.h ../config.h drd_basics.h \
+  ../include/pub_tool_basics.h ../VEX/pub/libvex_basictypes.h \
+  /usr/include/stdarg.h drd_clientreq.h drd.h ../include/valgrind.h \
+  ../include/pub_tool_redir.h ../config.h
+
+/usr/include/assert.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/errno.h:
+
+/usr/include/pthread.h:
+
+/usr/include/sys/_pthreadtypes.h:
+
+/usr/include/machine/_limits.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/sys/_sigset.h:
+
+/usr/include/sched.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/_null.h:
+
+/usr/include/sys/timespec.h:
+
+/usr/include/sys/_timespec.h:
+
+/usr/include/xlocale/_time.h:
+
+/usr/include/semaphore.h:
+
+/usr/include/sys/_umtx.h:
+
+/usr/include/stdint.h:
+
+/usr/include/machine/_stdint.h:
+
+/usr/include/sys/_stdint.h:
+
+/usr/include/stdio.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/_timeval.h:
+
+/usr/include/sys/unistd.h:
+
+../config.h:
+
+drd_basics.h:
+
+../include/pub_tool_basics.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+/usr/include/stdarg.h:
+
+drd_clientreq.h:
+
+drd.h:
+
+../include/valgrind.h:
+
+../include/pub_tool_redir.h:
+
+../config.h:

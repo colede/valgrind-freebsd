@@ -1,0 +1,3 @@
+libcoregrind_amd64_freebsd_a-sigframe-x86-linux.o \
+  libcoregrind_amd64_freebsd_a-sigframe-x86-linux.o:  \
+ m_sigframe/sigframe-x86-linux.c

@@ -1,0 +1,3 @@
+libcoregrind_amd64_freebsd_a-syscall-x86-freebsd.o \
+  libcoregrind_amd64_freebsd_a-syscall-x86-freebsd.o:  \
+ m_syswrap/syscall-x86-freebsd.S

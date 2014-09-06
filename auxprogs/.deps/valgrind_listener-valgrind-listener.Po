@@ -1,0 +1,142 @@
+valgrind_listener-valgrind-listener.o \
+  valgrind_listener-valgrind-listener.o: valgrind-listener.c \
+  ../coregrind/pub_core_basics.h ../include/pub_tool_basics.h \
+  ../VEX/pub/libvex_basictypes.h /usr/include/stdarg.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h ../VEX/pub/libvex.h \
+  ../VEX/pub/libvex_basictypes.h ../VEX/pub/libvex_ir.h \
+  ../VEX/pub/libvex_guest_amd64.h ../VEX/pub/libvex_emwarn.h \
+  ../coregrind/pub_core_libcassert.h ../include/pub_tool_libcassert.h \
+  ../coregrind/pub_core_vki.h ../include/pub_tool_vki.h \
+  ../include/vki/vki-freebsd.h \
+  ../include/vki/vki-machine-types-amd64-freebsd.h \
+  ../include/vki/vki-amd64-freebsd.h /usr/include/sys/types.h \
+  /usr/include/machine/endian.h /usr/include/sys/_pthreadtypes.h \
+  /usr/include/sys/_stdint.h /usr/include/sys/select.h \
+  /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h \
+  /usr/include/sys/timespec.h /usr/include/sys/_timespec.h \
+  /usr/include/sys/sysctl.h /usr/include/sys/queue.h \
+  ../coregrind/pub_core_libcfile.h ../include/pub_tool_libcfile.h \
+  /usr/include/stdio.h /usr/include/sys/_null.h /usr/include/unistd.h \
+  /usr/include/sys/unistd.h /usr/include/string.h /usr/include/strings.h \
+  /usr/include/xlocale/_string.h /usr/include/time.h \
+  /usr/include/xlocale/_time.h /usr/include/fcntl.h /usr/include/stdlib.h \
+  /usr/include/signal.h /usr/include/sys/signal.h \
+  /usr/include/machine/_limits.h /usr/include/machine/signal.h \
+  /usr/include/machine/trap.h /usr/include/sys/poll.h \
+  /usr/include/sys/socket.h /usr/include/sys/_iovec.h \
+  /usr/include/machine/_align.h /usr/include/x86/_align.h \
+  /usr/include/sys/_sockaddr_storage.h /usr/include/netinet/in.h \
+  /usr/include/netinet6/in6.h
+
+../coregrind/pub_core_basics.h:
+
+../include/pub_tool_basics.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+/usr/include/stdarg.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+../VEX/pub/libvex.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+../VEX/pub/libvex_ir.h:
+
+../VEX/pub/libvex_guest_amd64.h:
+
+../VEX/pub/libvex_emwarn.h:
+
+../coregrind/pub_core_libcassert.h:
+
+../include/pub_tool_libcassert.h:
+
+../coregrind/pub_core_vki.h:
+
+../include/pub_tool_vki.h:
+
+../include/vki/vki-freebsd.h:
+
+../include/vki/vki-machine-types-amd64-freebsd.h:
+
+../include/vki/vki-amd64-freebsd.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/sys/_pthreadtypes.h:
+
+/usr/include/sys/_stdint.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/sys/_sigset.h:
+
+/usr/include/sys/_timeval.h:
+
+/usr/include/sys/timespec.h:
+
+/usr/include/sys/_timespec.h:
+
+/usr/include/sys/sysctl.h:
+
+/usr/include/sys/queue.h:
+
+../coregrind/pub_core_libcfile.h:
+
+../include/pub_tool_libcfile.h:
+
+/usr/include/stdio.h:
+
+/usr/include/sys/_null.h:
+
+/usr/include/unistd.h:
+
+/usr/include/sys/unistd.h:
+
+/usr/include/string.h:
+
+/usr/include/strings.h:
+
+/usr/include/xlocale/_string.h:
+
+/usr/include/time.h:
+
+/usr/include/xlocale/_time.h:
+
+/usr/include/fcntl.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/signal.h:
+
+/usr/include/sys/signal.h:
+
+/usr/include/machine/_limits.h:
+
+/usr/include/machine/signal.h:
+
+/usr/include/machine/trap.h:
+
+/usr/include/sys/poll.h:
+
+/usr/include/sys/socket.h:
+
+/usr/include/sys/_iovec.h:
+
+/usr/include/machine/_align.h:
+
+/usr/include/x86/_align.h:
+
+/usr/include/sys/_sockaddr_storage.h:
+
+/usr/include/netinet/in.h:
+
+/usr/include/netinet6/in6.h:

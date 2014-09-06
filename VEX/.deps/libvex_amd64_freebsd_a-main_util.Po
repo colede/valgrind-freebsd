@@ -1,0 +1,26 @@
+libvex_amd64_freebsd_a-main_util.o libvex_amd64_freebsd_a-main_util.o:  \
+ priv/main_util.c ../VEX/pub/libvex_basictypes.h ../VEX/pub/libvex.h \
+  ../VEX/pub/libvex_basictypes.h ../VEX/pub/libvex_ir.h \
+  priv/main_globals.h priv/main_util.h /usr/include/stdarg.h \
+  /usr/include/sys/cdefs.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h
+
+../VEX/pub/libvex_basictypes.h:
+
+../VEX/pub/libvex.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+../VEX/pub/libvex_ir.h:
+
+priv/main_globals.h:
+
+priv/main_util.h:
+
+/usr/include/stdarg.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:

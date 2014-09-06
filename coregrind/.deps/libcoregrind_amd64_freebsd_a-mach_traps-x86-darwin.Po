@@ -1,0 +1,3 @@
+libcoregrind_amd64_freebsd_a-mach_traps-x86-darwin.o \
+  libcoregrind_amd64_freebsd_a-mach_traps-x86-darwin.o:  \
+ m_mach/mach_traps-x86-darwin.S
